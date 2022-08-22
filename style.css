@@ -88,6 +88,7 @@ section {
   padding: 8px 20px;
   border-radius: 8px;
   cursor: pointer;
+  border: none;
 }
 
 /* Table */
@@ -203,3 +204,5 @@ section {
 .hidden {
   visibility: hidden;
 }
+
+
